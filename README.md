@@ -4,7 +4,7 @@
 
 https://note.com/oshizo/n/n83ca80606d24
 
-Colabリンク
+Colabリンク（OpenAIのAPIキーが必要）
 
 <a target="_blank" href="https://colab.research.google.com/github/oshizo/chatgpt-blackjack/blob/main/chatgpt_blackjack.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
